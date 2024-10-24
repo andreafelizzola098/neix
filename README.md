@@ -1,5 +1,11 @@
 
 # neix
+## Requisitos previos
+
+Antes de comenzar, asegúrate de tener instalados los siguientes programas:
+
+- **Python**: Asegúrate de tener Python 3.6 o superior instalado en tu sistema.
+- **pip**: El gestor de paquetes de Python, que generalmente se incluye con Python.
 
 ## Actualizar las dependencias
 
