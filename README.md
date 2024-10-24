@@ -15,7 +15,7 @@ Para crear y activar un entorno virtual, ejecuta los siguientes comandos:
 
 ```bash
 python -m venv myenv
-.\myenv\Scriptsctivate  # Para Windows
+.\myenv\Scripts\activate  # Para Windows
 ```
 
 Para macOS/Linux, usa:
