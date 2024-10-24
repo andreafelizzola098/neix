@@ -1,5 +1,16 @@
 
 # neix
+
+## Introducción
+
+Este repositorio es un template con una arquitectura inicial para un proyecto en Python utilizando el framework **FastAPI**. El propósito de este proyecto es proporcionar una estructura básica para desarrollar aplicaciones que consumen APIs externas, procesando los datos con **Pandas** y realizando solicitudes HTTP con **httpx**.
+
+### Herramientas principales utilizadas:
+
+- **FastAPI**: Un framework web moderno y rápido para construir APIs con Python.
+- **Pandas**: Utilizado para la manipulación y análisis de datos de manera eficiente.
+- **httpx**: Un cliente HTTP asíncrono que permite realizar solicitudes HTTP a APIs externas de manera sencilla y eficiente.
+
 ## Requisitos previos
 
 Antes de comenzar, asegúrate de tener instalados los siguientes programas:
